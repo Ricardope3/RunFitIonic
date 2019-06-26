@@ -1,5 +1,7 @@
 {
   "name": "rfitapp3",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
